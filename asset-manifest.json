@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Taskaccordion/static/css/main.f251f349.css",
+    "main.js": "/Taskaccordion/static/js/main.7911bf6b.js",
+    "static/js/453.a6a97343.chunk.js": "/Taskaccordion/static/js/453.a6a97343.chunk.js",
+    "index.html": "/Taskaccordion/index.html",
+    "main.f251f349.css.map": "/Taskaccordion/static/css/main.f251f349.css.map",
+    "main.7911bf6b.js.map": "/Taskaccordion/static/js/main.7911bf6b.js.map",
+    "453.a6a97343.chunk.js.map": "/Taskaccordion/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f251f349.css",
+    "static/js/main.7911bf6b.js"
+  ]
+}
